@@ -1,0 +1,5 @@
+You can study how to create your own library, modify your own library and 
+including your own library in the makefile in the following section of the 
+course: 
+
+https://learning.edx.org/course/course-v1:Dartmouth_IMTx+DART.IMT.C.07+1T2020/block-v1:Dartmouth_IMTx+DART.IMT.C.07+1T2020+type@sequential+block@cb1e428a95cf44e09a4de74412af3c6c/block-v1:Dartmouth_IMTx+DART.IMT.C.07+1T2020+type@vertical+block@f90f58c39db54d6c95878f1ead770a9d
